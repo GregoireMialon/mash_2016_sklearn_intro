@@ -4,11 +4,11 @@
 
 ![](http://www.di.ens.fr/~aspremon/MASH/LogoMASH.png)
 
-Instructors: *[Grégoire Mialon]*, *[Igor Colin]* and *[Fajwel Fogel](http://www.di.ens.fr/~fogel/)*.
+Instructors: Grégoire Mialon, Igor Colin and *[Fajwel Fogel](http://www.di.ens.fr/~fogel/)*.
 
 - email: <gregoire.mialon@inria.fr>
 
-This repository was forked from *[Fabian Pedregosa](http://fa.bianp.net)*'s repository which contains notebooks and other files associated with the MASH course Projets Informatiques.
+This repository was forked from *[Fabian Pedregosa](http://fa.bianp.net)*'s (very nice) repository which contains notebooks and other files associated with the MASH course Projets Informatiques 2016-2017.
 
 ## Installation Notes
 This tutorial requires Jupyter Notebook. The easiest way to get this is to use the [conda](https://store.continuum.io/) environment manager. I suggest downloading and installing [miniconda](http://conda.pydata.org/miniconda.html). Once this is installed, the following command will install all required packages in your Python environment:
